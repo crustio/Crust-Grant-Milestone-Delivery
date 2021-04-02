@@ -8,7 +8,7 @@
 For each milestone you have reached, go through following processes to get corresponding payment.
 
 1. **Milestone Delivery:**
-   1. [Fork](https://github.com/crustio/Grant-Milestone-Delivery/fork) this repository with the **same GitHub account** that you used to submit the application.
+   1. [Fork](https://github.com/crustio/Crust-Grant-Milestone-Delivery/fork) this repository with the **same GitHub account** that you used to submit the application.
    2. In the newly created fork, create a copy of the milestone delivery template ([`deliveries/milestone-delivery-template.md`](deliveries/milestone-delivery-template.md)) under the directory `deliveries/`. Make sure you **do not modify the template file directly**.
    3. Name the file `project_name-milestone_number.md`.
    4. Fill out the template with the details of your milestone including a **link to the pull request** of your application.
