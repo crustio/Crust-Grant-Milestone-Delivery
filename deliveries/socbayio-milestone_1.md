@@ -13,5 +13,25 @@ Please provide a list of all deliverables of the milestone extracted from the in
 
 | Number | Deliverable | PR Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
-| 1. | ... |...| ...| 
-| 2.  | ... |...| ...| 
+| 1. |MVP website|...|Implement basic functions for the website|
+| 1a. |Sign in Function|...|...|
+| 1b. |Sign out Function|...|...|
+| 1c. |Sign out Function|...|...|
+| 1d. |Edit profile|...|...|
+| 1e. |Edit profile picture|...|...|
+| 1f. |Night mode|...|...|
+| 1g. |Subscribe/Unsubscribe Channel|...|...|
+| 1h. |View Subscriptions|...|...|
+| 1i. |View Channel|...|...|
+| 1j. |Report Videos|...|...|
+| 1k. |Implement modern video player|...|...|
+| 1l. |Multi-languages website|...|...|
+| 1m. |Searching video|...|...|
+| 1n. |Traffic tracking module|...|...|
+| 1o. |Errors logging for futher dubugging inspection|...|...|
+| 1p. |Live chat|...|...|
+| 2.  |Upload file to Crust Network|...|Using socbay.io fund and Crust treasury to upload user videos to Crust Network| 
+| 3.  |Reducing uploading fee|...|Upload multiple videos for each upload|
+| 4. |User video files checking|...|Checking file status on Crust Network|
+| 5. |Auto-select gateway for fast loading video|...|...|
+| 6. |Upload everything to Crust Network|...|For users who want to discover IPFS and Crust Network|
