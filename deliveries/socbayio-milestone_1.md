@@ -29,6 +29,7 @@ Please provide a list of all deliverables of the milestone extracted from the in
 | 1m. |Searching videos|||
 | 1n. |Traffic tracking module|||
 | 1o. |Errors logging for futher dubugging inspection|||
+| 1p. |SSL certificate|||
 | 2.  |Upload file to Crust Network||Using socbay.io fund and Crust treasury to upload user videos to Crust Network| 
 | 3.  |Reducing uploading fee||Upload multiple videos for each upload|
 | 4. |User video files checking||Checking file status on Crust Network|
