@@ -16,11 +16,11 @@ Please provide a list of all deliverables of the milestone extracted from the in
 | 1. |MVP website|...|Implement basic functions for the website|
 | 1a. |Sign in Function|...|...|
 | 1b. |Sign out Function|...|...|
-| 1c. |Sign out Function|...|...|
-| 1d. |Edit profile|...|...|
-| 1e. |Edit profile picture|...|...|
-| 1f. |Night mode|...|...|
-| 1g. |Subscribe/Unsubscribe Channel|...|...|
+| 1c. |Edit profile|...|...|
+| 1d. |Edit profile picture|...|...|
+| 1e. |Night mode|...|...|
+| 1f. |Subscribe/Unsubscribe Channel|...|...|
+| 1g. |Unsubscribe Channel|...|...|
 | 1h. |View Subscriptions|...|...|
 | 1i. |View Channel|...|...|
 | 1j. |Report Videos|...|...|
