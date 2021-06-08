@@ -14,7 +14,7 @@ Please provide a list of all deliverables of the milestone extracted from the in
 | Number | Deliverable | PR Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
 | 1. |MVP website||Implement basic functions for the website|
-| 1a. |Sign in Function|||
+| 1a. |Sign in Function|https://github.com/socbayio/socbay-app||
 | 1b. |Sign out Function|||
 | 1c. |Edit profile picture|||
 | 1d. |Live chat|||
@@ -31,7 +31,7 @@ Please provide a list of all deliverables of the milestone extracted from the in
 | 1o. |Errors logging for futher dubugging inspection|||
 | 1p. |SSL certificate|||
 | 2.  |Upload file to Crust Network||Using socbay.io fund and Crust treasury to upload user videos to Crust Network| 
-| 3.  |Reducing uploading fee||Upload multiple videos for each upload|
+| 3.  |Reducing uploading fee|https://github.com/socbayio/socbay-app/blob/main/crust-socbay-pinner.js|Upload multiple videos for each upload|
 | 4. |User video files checking||Checking file status on Crust Network|
-| 5. |Auto-select gateway for fast loading video|||
+| 5. |Auto-select gateway for fast loading video|https://github.com/socbayio/socbay-gateway-selector||
 | 6. |Upload everything to Crust Network||For users who want to discover IPFS and Crust Network|
