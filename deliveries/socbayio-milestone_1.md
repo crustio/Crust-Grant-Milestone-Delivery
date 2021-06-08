@@ -13,8 +13,8 @@ Please provide a list of all deliverables of the milestone extracted from the in
 
 | Number | Deliverable | PR Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
-| 1. |MVP website||Implement basic functions for the website|
-| 1a. |Sign in Function|https://github.com/socbayio/socbay-app||
+| 1. |MVP website|https://github.com/socbayio/socbay-app|Implement basic functions for the website|
+| 1a. |Sign in Function|||
 | 1b. |Sign out Function|||
 | 1c. |Edit profile picture|||
 | 1d. |Live chat|||
