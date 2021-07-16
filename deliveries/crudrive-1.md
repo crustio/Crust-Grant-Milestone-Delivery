@@ -19,5 +19,5 @@ Please provide a list of all deliverables of the milestone extracted from the in
 | 2 | User can create a folder or a text file, upload/download a file/folder. Can delete an existing file/folder with an UI. | |
 | 3 | Import remote IPFS hash. The imported hash will be stored in the server and uploaded to Crust. | |
 | 4 | All files will be uploaded to Crust network | |
-| 5 | Write an article introduce usage and how it interact with Crust to Medium | [Medium](https://crudrive.medium.com/how-to-use-crudrive-4f0507956894) |
+| 5 | Write an article introduce usage and how it interact with Crust to Medium | [Medium](https://crudrive.medium.com/crudrive-initial-version-launch-notice-a0707371bf5f) |
 
