@@ -17,7 +17,7 @@ For each milestone you have reached, go through following processes to get corre
    1. [DCF Grants Commitee](https://github.com/crustio/Crust-Grants-Program#dcf-grant-committee) will issue comments and request changes on the pull request. The feedback needs to be resolved before your milestone is accepted.
    2. [DCF Grants Commitee](https://github.com/crustio/Crust-Grants-Program#dcf-grant-committee) will merge your pull request to accept the delivery.
 3. **Milestone Payment:**
-   1. Fill out the [invoice form](https://forms.gle/mPYWxAVbaBbVc737A)(if you choose to receive CRU, please contact us via email hi@crust.network before filling out the invoice form to know the exchange rate).
+   1. __Once all the milestones are delivered__, fill out the [invoice form](https://forms.gle/mPYWxAVbaBbVc737A)(if you choose to receive CRU, please contact us via email hi@crust.network before filling out the invoice form to know the exchange rate).
    2. Payment is made to the Ethereum address specified in the initial application. 
 
 Grant applications can be amended at any time. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
