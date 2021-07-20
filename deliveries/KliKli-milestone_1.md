@@ -13,5 +13,5 @@ Please provide a list of all deliverables of the milestone extracted from the in
 
 | Number | Deliverable | PR Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
-| 1. | Implement Crust Order Modules |https://github.com/mg00736448/Crust_KliKli/tree/main/app| Video upload interface and data recording；Call the CRUST network to place an order and update the status regularly | 
-| 2.  | Completed functions |https://github.com/mg00736448/Crust_KliKli/tree/main/app| Compressed files of video download function；Uncompress the compressed files of video and callback application address；Manage backend | 
+| 1. | Implement Crust Order Modules |https://github.com/crustio/Crust-Grants-Program/pull/24/files| Video upload interface and data recording；Call the CRUST network to place an order and update the status regularly | 
+| 2.  | Completed functions |https://github.com/mg00736448/Crust_KliKli/| Compressed files of video download function；Uncompress the compressed files of video and callback application address；Manage backend | 
