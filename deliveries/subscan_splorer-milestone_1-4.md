@@ -1,23 +1,3 @@
-# Milestone Deliverables Guidelines
-
-These are the guidelines to be followed for milestones submitted for evaluation. 
-
-## Submission
-
-For the **Crust Grants** program, please submit your milestones via PR to the [Grant Milestone Delivery repository](https://github.com/crustio/Crust-Grant-Milestone-Delivery).
-
-## Content
-
-The submission should contain the following information: 
-
- * **Name of the grant project**
- * **Link to the open-source code/delivery** 
- * **[Documentation](#documentation)**
- * **[Formatted code](#formatted-code), according to a set of guidelines**
- * **[Testing Guide](#testing-guide)**
- * **A list of the [milestone deliverables](#milestone-deliverables)**
- * **Any [additional information](#additional-information)**
-
 ## Overview
 
 Subscan has supported the Crust network for nearly one year, and provided basic explorer services for the Crust testnet.
@@ -52,6 +32,8 @@ The main task is to integrate the storage-related functions of splorer into the 
 
 ### Milestone 2 Front-end and back-end development for crust network
 
+https://crust.subscan.io/
+
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | Server-side development | Develop according to requirements document |
@@ -60,6 +42,8 @@ The main task is to integrate the storage-related functions of splorer into the 
 
 
 ### Milestone 3 Front-end and back-end development for maxwell network
+
+https://maxwell.subscan.io/
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -72,7 +56,7 @@ The main task is to integrate the storage-related functions of splorer into the 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | API Docs | - |
+| 0a. | API Docs | https://docs.api.subscan.io/#introduction |
 | 0b. | Test and bug fix | - |
 | 0c. | Merged to production environment | The functions included in this grant will be released at https://crust.subscan.io/ at the end of this milestone | 
 
